@@ -7,6 +7,6 @@ Boutique en ligne entièrement réactive et rapide utilisant les dernières tech
 **Type d'application:** Monolithique
 
 **Technologies utilisées:**
-Git (GitHub), PHP 8, Laravel 8 avec l'intégration Livewire, Bootstrap 5, MySQL 8, UML, HTML5, CSS3, phpMyAdmin, VSCode, Adobe XD
+Git (GitHub), PHP 8, Laravel 8 avec l'intégration Livewire, SQL, Bootstrap 5, MySQL 8, UML, HTML5, CSS3, phpMyAdmin, VSCode, Adobe XD
 
 **Services externe:** Stripe API
